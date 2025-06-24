@@ -2,6 +2,8 @@
 title: Resume_Lrin
 date: 2021-10-11 08:45:23
 tags:
+hidden: true
+published: false
 cover: https://murongxin.github.io/image/%E5%B0%81%E9%9D%A211.jpg
 ---
 

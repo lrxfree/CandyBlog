@@ -2,7 +2,7 @@
 title: List of favorite games
 date: 2022-04-02 15:19:11
 tags:
-cover: https://gamerdunk.com/wp-content/uploads/2019/11/SteamLogo.jpg
+cover: https://s21.ax1x.com/2025/05/25/pVSlDDx.png
 ---
 
 ### 这是我喜欢且玩过的一些游戏，种类比较杂，也没有包括我玩过的所有游戏；
@@ -135,4 +135,3 @@ cover: https://gamerdunk.com/wp-content/uploads/2019/11/SteamLogo.jpg
 【更具体游戏经历在这个链接里：https://murongxin.github.io/2022/04/02/List-of-favorite-games/】</td>
 </ol>
 </div>
-
